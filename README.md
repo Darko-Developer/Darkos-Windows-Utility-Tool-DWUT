@@ -108,7 +108,7 @@ Full per-round notes are in `CHANGES-V9.md`. Short version:
 ## DEBLOATER
 <img width="1642" height="904" alt="DEBLOAT" src="https://github.com/user-attachments/assets/99168a34-9340-419f-944e-3420f005313b" />
 ## VPN
-<img width="1638" height="902" alt="VPN" src="https://github.com/user-attachments/assets/b82c34dc-f13e-4822-bff4-3b27179229b8" />
+<img width="1639" height="905" alt="VPN" src="https://github.com/user-attachments/assets/69ad38b3-7b8e-4f78-9675-a49c55b4f4da" />
 ## USB FLASHER
 <img width="1639" height="906" alt="USB FLASHER" src="https://github.com/user-attachments/assets/bb13a7b7-99f8-4b41-bffe-50861c0a0d02" />
 ## VM BUILDER
