@@ -5,7 +5,7 @@ backend (all the real logic, PowerShell scripts included). Electron talks to the
 Windows only, 64-bit / 32-bit / ARM64. Most features need Administrator.
 
 ## Install / run
-* **One-liner** (PowerShell, any window):
+* **One-liner** (PowerShell, any window, potentially slow on older computers):
 
   `irm https://raw.githubusercontent.com/supportpantheon-sys/Darkos-Windows-Utility-Tool-DWUT/main/bootstrap.ps1 | iex`
 * **From this folder:** double-click `run.bat` (or right-click `bootstrap.ps1` > Run with PowerShell). It elevates itself, installs what is
