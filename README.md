@@ -1,6 +1,6 @@
 # DWUT - Darko's Windows Utility Tool
 
-One app for tuning, cleaning, repairing and tidying up a Windows 10 / 11 PC. DWUT 9 is an Electron app (the UI) on top of a Python
+One app for tuning, cleaning, repairing and tidying up a Windows 10 / 11 PC. DWUT is an Electron app (the UI) on top of a Python
 backend (all the real logic, PowerShell scripts included). Electron talks to the backend over a JSON pipe (`backend/server.py`).
 Windows only, 64-bit / 32-bit / ARM64. Most features need Administrator.
 
