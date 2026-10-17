@@ -97,3 +97,40 @@ Full per-round notes are in `CHANGES-V9.md`. Short version:
 * **v5:** USB Flasher, VPN location changer, rewritten power plans, update toast.
 * **v4:** Proxy VPN mode with kill switch.  **v3:** proxy failover relay.  **v1 - v2:** Electron rewrite of the original CustomTkinter app,
   Disk Cleanup, Game Booster, FPS Unlocker and Deep Clean fixes.
+
+
+
+<img width="1643" height="901" alt="DASHBOARD" src="https://github.com/user-attachments/assets/a5ece2aa-7d64-44d0-b054-ba641a6d863b" />
+
+<img width="1637" height="908" alt="OPTIMIZER" src="https://github.com/user-attachments/assets/de0b842c-c624-4474-b9f0-87899952ae3b" />
+
+<img width="1642" height="902" alt="GAME BOOSTER" src="https://github.com/user-attachments/assets/adf2acfe-abd5-46e7-ac45-bcb92b9a17ab" />
+
+<img width="1642" height="904" alt="DEBLOAT" src="https://github.com/user-attachments/assets/99168a34-9340-419f-944e-3420f005313b" />
+
+<img width="1638" height="902" alt="VPN" src="https://github.com/user-attachments/assets/b82c34dc-f13e-4822-bff4-3b27179229b8" />
+
+<img width="1639" height="906" alt="USB FLASHER" src="https://github.com/user-attachments/assets/bb13a7b7-99f8-4b41-bffe-50861c0a0d02" />
+
+<img width="1642" height="901" alt="VM BUILDER" src="https://github.com/user-attachments/assets/b4a4f44f-04b3-4aa0-876c-974481a592ed" />
+
+<img width="1642" height="907" alt="REGISTRY AND DISK TOOLS" src="https://github.com/user-attachments/assets/a0051d9c-33e6-458b-86ff-74fdc3b0c349" />
+
+<img width="1640" height="900" alt="CLEANER" src="https://github.com/user-attachments/assets/4c65a67b-683b-471c-af61-39298eb69a53" />
+
+<img width="1414" height="813" alt="SETTINGS THEMES" src="https://github.com/user-attachments/assets/ddc0a247-d671-4821-b811-8e9344bd5459" />
+
+<img width="1393" height="647" alt="SETTINGS CUSTOMIZATION" src="https://github.com/user-attachments/assets/d71b26ff-e922-49e9-8297-a7c952f559fb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
