@@ -38,8 +38,7 @@ Repairs (DISM / SFC and more), Config Tools (Command Prompt, PowerShell, Group P
 
 ### Gaming
 Game Booster: closes background apps you choose (an exclusion popup opens first), power plan, process priority, auto-detects the running game
-(130+ known games). FPS Unlocker for Roblox (every install, incl. Store, Bloxstrap, Fishstrap, Voidstrap), Fortnite and Minecraft Java by
-editing config files only - nothing touches game memory.
+(130+ known games).
 
 ### Debloat
 Pick the apps and features to remove, with a restore point first.
@@ -49,7 +48,7 @@ Pick the apps and features to remove, with a restore point first.
   shared-server pool. Change country while connected. Everything it changes is recorded in `%LOCALAPPDATA%\DWUT\vpn_state.json` and undone
   on disconnect, on exit and on the next start after a crash.
 * **Proxy Center:** checker (ping, jitter, YouTube, Discord, real speed per proxy), a local failover relay (HTTP / SOCKS4 / SOCKS5), and a
-  proxy-based VPN mode with kill switch, DNS-leak, IPv6 and WebRTC protection. Free proxies are free-proxy speed.
+  proxy-based VPN mode with kill switch, DNS-leak, IPv6 and WebRTC protection. Free proxies are free-proxy speed. (TEMPORARILY DISABLED UNTIL IT WORKS PROPERLY SORRY)
 
 ### Network Monitor
 Live per-app network use.
@@ -84,15 +83,12 @@ Windows 10 (1809+) or 11, Python 3.10+, internet for installing and for download
 requests, wmi, nvidia-ml-py, PySocks required; pycaw, numpy, PyAudioWPatch, pywinpty optional and installed automatically when used).
 
 ## Honest limits
-* The VPN's proxy-based modes only cover apps that follow Windows proxy settings (browsers, Discord, Store apps, most clients), not games or apps
-  using raw UDP; the kill switch still blocks leaks, so those apps will not work while it is on.
-* FPS Unlocker only offers games that have a config-file cap. Valorant, Apex and similar have none, so they are not offered.
-* Parts of DWUT were tested with Windows APIs simulated. Real-hardware behaviour (powercfg, DISM, UAC, tool downloads) can differ, so if
+* Parts of DWUT were tested with Within Windows Virtual Environments. Real-hardware behaviour (powercfg, DISM, UAC, tool downloads) can differ, so if
   something misbehaves check `%APPDATA%\DWUT\logs` and `%LOCALAPPDATA%\DWUT\logs`.
 
 ## Version history
 Full per-round notes are in `CHANGES-V9.md`. Short version:
-* **v9:** DWUT 1 CLICK BUTTON, TBOK button, system optimizations popup, DWUT Task Manager + Run window, terminal windows, shared performance
+* **v9:** DWUT 1 CLICK BUTTON, TBOK button, system optimizations popup, DWUT Task Manager + Run window, terminal windows, shared performance, hid proxy category (until finished and finalized)
   sampler, new beat detection, tray VPN fixes, clean-exit fix.
 * **v6:** VPN as its own category, VM Builder, 130+ games in the Game Booster, Deep Clean protection popup.
 * **v5:** USB Flasher, VPN location changer, rewritten power plans, update toast.
