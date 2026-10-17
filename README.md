@@ -6,6 +6,7 @@ Windows only, 64-bit / 32-bit / ARM64. Most features need Administrator.
 
 ## Install / run
 * **One-liner** (PowerShell, any window):
+
   `irm https://raw.githubusercontent.com/supportpantheon-sys/Darkos-Windows-Utility-Tool-DWUT/main/bootstrap.ps1 | iex`
 * **From this folder:** double-click `run.bat` (or right-click `bootstrap.ps1` > Run with PowerShell). It elevates itself, installs what is
   missing (Python 3.10+, the pip packages, the Electron runtime with a SHA-256 check), makes a desktop shortcut and launches DWUT.
