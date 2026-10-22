@@ -4,6 +4,9 @@ One app for tuning, cleaning, repairing and tidying up a Windows 10 / 11 PC. DWU
 backend (all the real logic, PowerShell scripts included). Electron talks to the backend over a JSON pipe (`backend/server.py`).
 Windows only, 64-bit / 32-bit / ARM64. Most features need Administrator.
 
+## VT SCAN (VIRUS TOTAL)
+https://www.virustotal.com/gui/file/73ec267764601fe9fe8b6ef881da052a26c31ba5eaa926fbb9b29c6682426f1d?nocache=1
+
 ## Install / run
 * **One-liner** (PowerShell, any window):
   `irm https://raw.githubusercontent.com/supportpantheon-sys/Darkos-Windows-Utility-Tool-DWUT/main/bootstrap.ps1 | iex`
