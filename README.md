@@ -115,5 +115,57 @@ Full per-round notes are in `CHANGES-V9.md`. Short version:
 * **v4:** Proxy VPN mode with kill switch.  **v3:** proxy failover relay.  **v1 - v2:** Electron rewrite of the original CustomTkinter app,
   Disk Cleanup, Game Booster, FPS Unlocker and Deep Clean fixes.
 
+## DASHBOARD
+<img width="1558" height="825" alt="image" src="https://github.com/user-attachments/assets/c7f1505a-c916-40e8-a6c4-7388de487012" />
+
+## OPTIMIZER
+<img width="1566" height="829" alt="image" src="https://github.com/user-attachments/assets/618d2943-ad82-4f08-bdcf-4f633de972ff" />
+
+## GAMING
+<img width="1561" height="827" alt="image" src="https://github.com/user-attachments/assets/ce64e0d3-4462-4989-87b5-ae514c2ef14b" />
+
+## DEBLOAT
+<img width="1562" height="828" alt="image" src="https://github.com/user-attachments/assets/577dee1d-a985-4c19-b6b9-ce6e80d34aa4" />
+
+## VPN
+<img width="1563" height="831" alt="VPN2" src="https://github.com/user-attachments/assets/82eb51f8-a659-4922-9b69-a9139d7273e6" />
+
+## NETWORK MONITOR
+<img width="1556" height="826" alt="NETWORKMONITOR" src="https://github.com/user-attachments/assets/a9d2a260-db6b-47b6-88ef-17ee1034ea89" />
+
+## USB FLASHER
+<img width="1561" height="825" alt="image" src="https://github.com/user-attachments/assets/39d4af20-5721-47d7-8faf-39ad4f68fa0c" />
+
+## VM BUILDER
+<img width="1562" height="828" alt="image" src="https://github.com/user-attachments/assets/0af3b8f8-bfab-4867-b4ec-fa964f893bf8" />
+
+## TOOLS
+<img width="1567" height="831" alt="image" src="https://github.com/user-attachments/assets/92bb6f6b-cbf5-4c77-99f2-46fb06564f9c" />
+
+## CLEANER
+<img width="1567" height="826" alt="image" src="https://github.com/user-attachments/assets/05a50703-388c-42f0-8761-c62e087de74d" />
+
+## BIOS
+<img width="1564" height="827" alt="image" src="https://github.com/user-attachments/assets/2d66f1a5-b177-425b-92c7-143fae620b7f" />
+
+## PROFILES
+<img width="1565" height="828" alt="image" src="https://github.com/user-attachments/assets/1c58e868-d128-4037-bb48-5d1388b697cb" />
+
+## SETTINGS
+<img width="1567" height="830" alt="image" src="https://github.com/user-attachments/assets/730fe036-1fbb-47a3-8661-64ae0cddec68" />
+
+## TASK MANAGER
+<img width="1275" height="878" alt="image" src="https://github.com/user-attachments/assets/56f722c1-1f0f-43d1-b77a-89051af7299c" />
+<img width="1279" height="880" alt="image" src="https://github.com/user-attachments/assets/1194bae2-e72f-4a4a-95d8-4e8c6e3ec7f6" />
+<img width="1276" height="875" alt="image" src="https://github.com/user-attachments/assets/c452d232-c265-46c7-bae8-48a39e55ea23" />
+<img width="1275" height="874" alt="image" src="https://github.com/user-attachments/assets/3c98af4f-62d6-4d7f-82fd-3c127c63d619" />
+
+
+## GAME OVERLAY
+<img width="1916" height="1030" alt="image" src="https://github.com/user-attachments/assets/8952b343-0ce2-458f-9a5b-48a0ca2cc58f" />
+<img width="1276" height="876" alt="image" src="https://github.com/user-attachments/assets/8701a394-7409-4c3a-80b4-c2944e5fed18" />
+
+
+
 ---
 Copyright © 2026 Darko / Darko.Dev
